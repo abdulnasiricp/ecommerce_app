@@ -36,6 +36,6 @@ To run this project, you will need:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/abdulnasiricp/ecommerce-flutter-app.git
+   git clone https://github.com/abdulnasiricp/ecommerce_app.git
    cd ecommerce-flutter-app
    ```
